@@ -1,4 +1,4 @@
-# ✏easydraw
+# 🥘 Tteokbokki Community
 ### 1. Web ? App ?
 
 - 연수, 상화님이 안드로이드 개발 경험이 없음, 희선도 웹에 관심이 많다.
