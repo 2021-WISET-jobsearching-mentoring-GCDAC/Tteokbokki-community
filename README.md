@@ -6,8 +6,8 @@
 
 ## 2. App 개발
 
-- React Native를 사용하여 제작
-- React를 공부하면서 이를 활용한 프로젝트를 해보고 싶었음
+- Android Studio를 사용하여 제작
+- 언어는 Kotlin 사용
 
 ## 3. App Scenario
 
