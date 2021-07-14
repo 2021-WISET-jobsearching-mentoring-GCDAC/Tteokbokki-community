@@ -25,3 +25,9 @@
 - Database는 Firebase 사용
 - Cloud Firestore Database에 데이터 저장
 - 배포는 AWS 
+
+## 5. UI
+![image](https://user-images.githubusercontent.com/56292365/125561774-db933d54-5836-4690-a79a-e7dd29e1e1c4.png)
+![image](https://user-images.githubusercontent.com/56292365/125561785-06f90a07-aa80-4910-8abf-bb38ba9a784e.png)
+![image](https://user-images.githubusercontent.com/56292365/125561800-4d4412f5-e95c-4000-822f-aed3ef551b04.png)
+
