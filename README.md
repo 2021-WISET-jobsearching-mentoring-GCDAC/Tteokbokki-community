@@ -21,3 +21,6 @@
 - 카카오맵 api를 사용하기 위해 Android Studio를 사용하여 제작(document가 있음)
 - 언어는 Java보다 간결하고 자료가 많은 Kotlin 사용
 
+## 4. Server
+- 간단한 구현을 위해 Firebase 사용
+- Cloud Firestore Database에 데이터 저장
