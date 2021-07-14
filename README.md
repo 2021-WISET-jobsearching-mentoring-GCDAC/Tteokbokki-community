@@ -22,5 +22,6 @@
 - 언어는 Java보다 간결하고 자료가 많은 Kotlin 사용
 
 ## 4. Server
-- 간단한 구현을 위해 Firebase 사용
+- Database는 Firebase 사용
 - Cloud Firestore Database에 데이터 저장
+- 배포는 AWS 
